@@ -1,5 +1,3 @@
-# DOCUMENTARY
-
 ## Types of Data Structures
 
 - Physical
@@ -41,6 +39,12 @@
 - Graph
 - Hash Tables
 
+1. Linear DS - Stack, Queue
+2. Non Linear DS - Trees, Graph
+3. Linear -or- Tabular - Hash Table
+
+<p align = "left"> These logical datastructures implemented using physical data structures array -or linked list -or combination. </p>
+  
   
   
   
